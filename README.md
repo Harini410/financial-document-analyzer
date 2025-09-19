@@ -201,16 +201,6 @@ python -m pytest tests/test_tools.py -q
 
 ---
 
-## 📊 Swagger UI Preview
-
-Interact with the API directly via **Swagger UI**:
-
-![Swagger UI Preview](docs/swagger_ui_preview.png)
-
-Open live docs at: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
----
-
 ## 🎯 Bonus Features Implemented
 
 * ✅ **Queue Worker** (Celery + Redis) for async processing
